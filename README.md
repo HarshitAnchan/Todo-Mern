@@ -30,7 +30,6 @@
   - [🔖 Prerequisites](#-prerequisites)
   - [📦 Installation](#-installation)
   - [🤖 Usage](#-usage)
-- [📌 Project Roadmap](#-project-roadmap)
 - [Usage](#usage)
   - [Adding a Task](#adding-a-task)
   - [Viewing Tasks](#viewing-tasks)
@@ -159,14 +158,6 @@ Start the frontend application:
 
 
 ```
-
-## 📌 Project Roadmap
-
-- [x] **`Task 1`**: <strike>Implement feature one.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
-
----
 
 ## Usage
 
