@@ -56,8 +56,7 @@
 
 ## 👾 Features
 
-<code>❯
-
+<code>
 - **Task Creation**: Add new tasks with a title, description, status (pending/completed), and deadline.
 - **Task Editing**: Update existing tasks to keep your to-do list current.
 - **Task Deletion**: Remove tasks that are no longer needed.
