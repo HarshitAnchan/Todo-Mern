@@ -49,7 +49,7 @@
 
 ## 📍 Overview
 
-<code>❯This To-Do List application is a task management tool designed to help users organize their daily activities. Users can add, edit, view, and delete tasks. The app allows tracking of task status, setting deadlines, and provides a clean, intuitive user interface. Built using the MERN stack (MongoDB, Express.js, React, Node.js), the app is scalable and ensures efficient data handling. Whether for personal task management or team collaboration, this app simplifies organizing to-dos and boosts productivity.
+<code>This To-Do List application is a task management tool designed to help users organize their daily activities. Users can add, edit, view, and delete tasks. The app allows tracking of task status, setting deadlines, and provides a clean, intuitive user interface. Built using the MERN stack (MongoDB, Express.js, React, Node.js), the app is scalable and ensures efficient data handling. Whether for personal task management or team collaboration, this app simplifies organizing to-dos and boosts productivity.
 </code>
 
 ---
